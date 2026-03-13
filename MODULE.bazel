@@ -50,7 +50,7 @@ bazel_dep(name = "buildifier_prebuilt", version = "8.2.1.2", dev_dependency = Tr
 bazel_dep(name = "gazelle", version = "0.47.0", dev_dependency = True)
 bazel_dep(name = "protobuf", version = "33.5", dev_dependency = True)
 bazel_dep(name = "rules_bazel_integration_test", version = "0.37.1", dev_dependency = True)
-bazel_dep(name = "rules_go", version = "0.59.0", dev_dependency = True)
+bazel_dep(name = "rules_go", version = "0.60.0", dev_dependency = True)
 bazel_dep(name = "rules_img_pull_tool", version = "0.3.4", dev_dependency = True)
 bazel_dep(name = "rules_img_tool", version = "0.3.4", dev_dependency = True)
 bazel_dep(name = "rules_pkg", version = "1.2.0", dev_dependency = True)
